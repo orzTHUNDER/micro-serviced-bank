@@ -21,7 +21,9 @@ C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybyt
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\mapper\CustomerMapper.java
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\repository\AccountsRepository.java
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\repository\CustomerRepository.java
+C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\service\client\CardsFallback.java
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\service\client\CardsFeignClient.java
+C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\service\client\LoansFallback.java
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\service\client\LoansFeignClient.java
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\service\IAccountsService.java
 C:\Users\NANDHAKKUMAR\IdeaProjects\micro-bank\accounts\src\main\java\com\eazybytes\accounts\service\ICustomersService.java
